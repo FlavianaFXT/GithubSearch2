@@ -10,7 +10,18 @@ Neste projeto foram utilizados os seguintes conteúdos:
     - [3.1. useState]()
     - [3.2. useEffect]()
 
-## Apresentação
+# Índice
+
+- [Apresentação](#Apresentação)
+- [DESCRIÇÃO DO PROJETO](#Descrição-Do-Projeto)
+- [TECNOLOGIAS UTILIZADAS](#Tecnologias-Utilizadas)
+- [PASSO A PASSO UTILIZADO](#Passo-A-Passo-Utilizado)
+- [FUNCIONALIDADES IMPLEMENTADAS](#Funcionalidades-Implementadas)
+- [IMPLEMENTAÇÕES FUTURAS](#Implementações-Futuras)
+- [COMO RODAR O PROJETO](#Como-Rodar-O-Projeto)
+- [CONFIRA O RESULTADO ](#Confira-O-Resultado)
+
+# Apresentação
 
 ### Quem é Flaviana?
 
@@ -25,7 +36,7 @@ Flaviana Ferraz é uma sertaneja de Pernambuco morando no sertão da Paraiba, fo
 - [GitHub](https://github.com/flavianafxt)
 
 
-## 🧠 DESCRIÇÃO DO PROJETO
+# DESCRIÇÃO DO PROJETO
 
 ## 🧠 Contexto
 
@@ -40,7 +51,8 @@ O objetivo desse site era utilizar os conceitos aprendidos em sala durante a sem
 ![image](https://github.com/FlavianaFXT/GithubSearch2/assets/113718720/3a4e0b86-8251-4661-8543-fa01fc2fb240)
 ![image](https://github.com/FlavianaFXT/GithubSearch2/assets/113718720/f5a3e4d4-0151-4d3c-8041-ec7dbe87f679)
 
-## 🧠TECNOLOGIAS UTILIZADAS
+# TECNOLOGIAS UTILIZADAS
+
 | Ferramenta | Descrição |
 | --- | --- |
 | `ReactJS` | framework web|
@@ -51,7 +63,7 @@ O objetivo desse site era utilizar os conceitos aprendidos em sala durante a sem
 | `Github` | Hospedagem do código fonte integrado com gerenciador de versionamento|
 | `Vercel` | deploy do projeto|
 
-## 🧠 PASSO A PASSO UTILIZADO
+# PASSO A PASSO UTILIZADO
 
 1️⃣ Criação de repositorio no github e clone na maquina em que trabalhei no projeto através do Git Bash
 2️⃣ Start do projeto na maquina utilizando o VS Code e seu terminal, atraves dos comandos de iniciação vite e node
@@ -86,19 +98,19 @@ O objetivo desse site era utilizar os conceitos aprendidos em sala durante a sem
 
 8️⃣ Deploy do projeto no Vercel
 
-## 🧠 FUNCIONALIDADES IMPLEMENTADAS
+# FUNCIONALIDADES IMPLEMENTADAS
 
 ✔️ Renderização de perfil pessoal personalizado
 ✔️ Renderização dos meus repositórios do github através do consumo de API
 ✔️ Mecanismo de busca de repositórios através de termos digitados no campo de busca e renderização dos repositórios que contêm os termos pesquisados
 
-## 🧠 IMPLEMENTAÇÕES FUTURAS
+#  IMPLEMENTAÇÕES FUTURAS
 
 ✖️ Mecanismo de busca de qualquer perfil no github e renderização na página
 ✖️ Renderização dos repositórios do perfil pesquisado 
 
 
-## 🧠 COMO RODAR O PROJETO
+# COMO RODAR O PROJETO
 
 Para rodar esse projeto em sua máquina, siga os passos a seguir:
 
@@ -118,4 +130,6 @@ Para rodar esse projeto em sua máquina, siga os passos a seguir:
 
 O navegador será aberto automaticamente usando a porta localhost:3000 
   
-### 🧠 CONFIRA O RESULTADO: https://meu-github-search-mfml8f6tw-flavianafxt.vercel.app/
+# CONFIRA O RESULTADO 
+
+https://meu-github-search-mfml8f6tw-flavianafxt.vercel.app/
