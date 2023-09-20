@@ -1,6 +1,6 @@
 # Projeto GithubSearch2
 
-Projeto desenvolvido na Semana 14 do Curso de FrontEnd <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="300">, utilizado React.js, cujo objetivo era ---------.
+Projeto desenvolvido na Semana 14 do Curso de FrontEnd  , utilizando React.js, cujo objetivo era ---------.
 
 Neste projeto foram utilizados os seguintes conteúdos:
 
